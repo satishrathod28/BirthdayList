@@ -43,9 +43,7 @@ return(
     <i class="fa fa-folder"></i> 
   <span class="badge">{count}</span>
 </a>
- 
 
-    <h2 className="my-2">  {count} BIRTHDAY IN MARCH </h2>
        
 <div ref={ElementRef}>
 {data.map(({id, name, date, month})=>{
