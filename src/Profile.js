@@ -6,7 +6,7 @@ const Profile = ({id, name, date, month}) =>{
           <div className="row">
                     <div className ="col-4 d-flex flex-column justify-content-center align-content-center py-2">
                 
-                <img src="https://www.pngfind.com/pngs/b/470-4703547_privacy-icon-png.png" className="rounded-circle mx-2" alt="Cinque Terre"/> 
+                <img src="https://www.pngfind.com/pngs/b/470-4703547_privacy-icon-png.png" className="rounded-circle mx-2 wd" alt="Cinque Terre"/> 
            
       
         </div>

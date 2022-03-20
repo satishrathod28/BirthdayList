@@ -12,7 +12,9 @@
   display: inline-block;
   border-radius: 2px;
 }
-
+.wd{
+  max-width: 170px;
+}
 .notification:hover {
   background: red;
 }
